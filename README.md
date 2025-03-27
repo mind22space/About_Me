@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm mind22space</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [BluelineCustoms](https://github.com/mind22space/BluelineCustoms) (Privte)
+- 🔭 I’m currently working on [BluelineCustoms](https://github.com/mind22space/BluelineCustoms) (Private)
 
 - 🌱 I’m currently learning **JavaScript/Typescript**
 
